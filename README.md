@@ -1,2 +1,2 @@
 # StringHandler
-![alt text](https://github.com/qlulp/StringHandler/blob/main/preview.PNG?raw=true)
+![alt text](https://github.com/qlulp/StringHandler/blob/main/%D0%B934.PNG?raw=true)
