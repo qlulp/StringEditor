@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ListBox_ComboBox_Lab\ListBox_ComboBox_Lab\bin\Debug\ListBox_ComboBox_Lab.exe.config
+C:\Users\Admin\source\repos\ListBox_ComboBox_Lab\ListBox_ComboBox_Lab\bin\Debug\ListBox_ComboBox_Lab.exe
+C:\Users\Admin\source\repos\ListBox_ComboBox_Lab\ListBox_ComboBox_Lab\bin\Debug\ListBox_ComboBox_Lab.pdb
+C:\Users\Admin\source\repos\ListBox_ComboBox_Lab\ListBox_ComboBox_Lab\obj\Debug\ListBox_ComboBox_Lab.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ListBox_ComboBox_Lab\ListBox_ComboBox_Lab\obj\Debug\ListBox_ComboBox_Lab.Properties.Resources.resources
+C:\Users\Admin\source\repos\ListBox_ComboBox_Lab\ListBox_ComboBox_Lab\obj\Debug\ListBox_ComboBox_Lab.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ListBox_ComboBox_Lab\ListBox_ComboBox_Lab\obj\Debug\ListBox_ComboBox_Lab.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ListBox_ComboBox_Lab\ListBox_ComboBox_Lab\obj\Debug\ListBox_ComboBox_Lab.exe
+C:\Users\Admin\source\repos\ListBox_ComboBox_Lab\ListBox_ComboBox_Lab\obj\Debug\ListBox_ComboBox_Lab.pdb
+C:\Users\Admin\source\repos\ListBox_ComboBox_Lab\ListBox_ComboBox_Lab\obj\Debug\ListBox_ComboBox_Lab.MainForm.resources
